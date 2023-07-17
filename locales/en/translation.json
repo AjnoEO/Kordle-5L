@@ -1,6 +1,6 @@
 {
     "about": "About this game",
-    "gameName": "Not Wordle - {{language}}",
+    "gameName": "коɾdle",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
@@ -10,9 +10,9 @@
     "howToPlay": "How to play",
     "instructions": "Guess the word in {{tries}} tries. After each guess, the color of the tiles will change to show how close your guess was to the word.",
     "pickYourLanguage": "Choose a language",
-    "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
-    "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",
-    "notInWordInstructions": "The letter U is not in the word in any spot.",
+    "correctSpotInstructions": "The letter D is in the word and in the correct spot.",
+    "wrongSpotInstructions": "The letter Т is in the word but in the wrong spot.",
+    "notInWordInstructions": "The letter Н is not in the word in any spot.",
     "guessDistribution": "Guess Distribution",
     "statistics": "Statistics",
     "totalTries": "Total tries",
@@ -27,76 +27,74 @@
         "Well done!"
     ],
     "firstExampleWord": [{
-            "letter": "W",
+            "letter": "ᴅ",
             "highlight": true
         },
         {
-            "letter": "E",
+            "letter": "ı",
             "highlight": false
         },
         {
-            "letter": "A",
+            "letter": "х",
             "highlight": false
         },
         {
-            "letter": "R",
+            "letter": "ч",
             "highlight": false
         },
         {
-            "letter": "Y",
+            "letter": "ʌ",
             "highlight": false
         }
     ],
     "secondExampleWord": [{
-            "letter": "P",
+            "letter": "с",
             "highlight": false
         },
         {
-            "letter": "I",
+            "letter": "ı",
             "highlight": false
         },
         {
-            "letter": "L",
+            "letter": "т",
             "highlight": true
         },
         {
-            "letter": "O",
+            "letter": "ᴜ",
             "highlight": false
         },
         {
-            "letter": "T",
+            "letter": "ʏ",
             "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "V",
+            "letter": "v",
             "highlight": false
         },
         {
-            "letter": "A",
+            "letter": "ʌ",
             "highlight": false
         },
         {
-            "letter": "G",
+            "letter": "с",
             "highlight": false
         },
         {
-            "letter": "U",
+            "letter": "н",
             "highlight": true
         },
         {
-            "letter": "E",
+            "letter": "ʌ",
             "highlight": false
         }
     ],
     "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
     "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
     "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "aboutOriginalSentence": "You can also play the original <1>here</1>",
     "languages": {
+        "lx": "Lokha",
         "en": "English",
-        "es": "Español",
-        "sw": "Kiswahili",
-        "zh": "中文"
     }
 }
