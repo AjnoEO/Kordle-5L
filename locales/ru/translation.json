@@ -1,0 +1,105 @@
+{
+    "about": "Об этой игре",
+    "gameName": "коɾdle",
+    "enterKey": "Ввод",
+    "deleteKey": "Удалить",
+    "notEnoughLetters": "Недостаточно букв",
+    "wordNotFound": "Неизвестное слово",
+    "solution": "Ответом было слово {{solution}}",
+    "gameCopied": "Игра сохранена в буфер обмена",
+    "howToPlay": "Как играть",
+    "instructions": "Угадайте загаданное слово за {{tries}} попыток. После каждой попытки каждый квадратик окрасится в один из трёх цветов.",
+    "pickYourLanguage": "Выберите язык",
+    "correctSpotInstructions": "Буква D есть в слове на этом месте.",
+    "wrongSpotInstructions": "Буква Т есть в слове, но не на этом месте.",
+    "notInWordInstructions": "Буквы Н нет нигде в слове.",
+    "guessDistribution": "Распределение числа потребовавшихся попыток",
+    "statistics": "Статистика",
+    "totalTries": "Сыграно всего",
+    "successRate": "Доля побед",
+    "currentStreak": "Игр подряд на данный момент",
+    "bestStreak": "Игр подряд всего",
+    "newWordCountdown": "Следующее слово через",
+    "share": "Поделиться",
+    "winMessages": [
+        "Отлично!",
+        "Супер!",
+        "Класс!",
+        "Хорош!",
+        "Молодец!",
+        "Гений!",
+    ],
+    "firstExampleWord": [{
+            "letter": "ᴅ",
+            "highlight": true
+        },
+        {
+            "letter": "ı",
+            "highlight": false
+        },
+        {
+            "letter": "х",
+            "highlight": false
+        },
+        {
+            "letter": "ч",
+            "highlight": false
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "с",
+            "highlight": false
+        },
+        {
+            "letter": "ı",
+            "highlight": false
+        },
+        {
+            "letter": "т",
+            "highlight": true
+        },
+        {
+            "letter": "ᴜ",
+            "highlight": false
+        },
+        {
+            "letter": "ʏ",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "v",
+            "highlight": false
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        },
+        {
+            "letter": "с",
+            "highlight": false
+        },
+        {
+            "letter": "н",
+            "highlight": true
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Это клон игры Wordle с открытым кодом, адаптированный для Лёхи <3>{{author}}</3>.",
+    "aboutCodeSentence": "Оцените также <1>оригинальный код</1> <3>Ханны Парк</3> или посетите <5>форк Айдана Пайна</5> и сделайте свою версию игры!",
+    "aboutDataSentence": "Источник словаря для игры: <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "А ещё можно сыграть в оригинальную версию игры <1>здесь</1>",
+    "languages": {
+        "lx": "Лёха",
+        "en": "Английский",
+        "es": "Испанский",
+        "ru": "Русский",
+    }
+}
