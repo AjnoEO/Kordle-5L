@@ -1,5 +1,5 @@
 {
-    "about": "кɔ zʌıсɔz",
+    "about": "хоснʌтонтɔ",
     "gameName": "коɾdle",
     "enterKey": "vɔ",
     "deleteKey": "пıтɔ",
@@ -93,9 +93,9 @@
         }
     ],
     "aboutAuthorSentence": "кɔ zʌıсʌн {{language}}ʏо ʏʌтᴜʏᴜнтɔ отʌ <3>{{author}}</3> ɔ.",
-    "aboutCodeSentence": "<3>хʌнʌ пʌɾк</3> vʌ отʌz <1>ʌхʌz опо</1> кʌʟтᴜʌ, кʌ <5>ʌʏᴅʌн пʌıн vʌ отʌz ızоv опо</5>кı тɔ and customize it for another language! ",
-    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "aboutCodeSentence": "<3>хʌнʌ пʌɾк</3> vʌ отʌz <1>ʌхʌz опо</1> кʌʟтᴜʌ, кʌ <5>ʌʏᴅʌн пʌıн vʌ отʌz ızоv опо</5>кı тɔz zʌıс ʟᴜсгʌстɔ!",
+    "aboutDataSentence": "кɔ zʌıсʏо <1>{{wordListSource}}</1>тᴜ коɾ ɾочıтɔ.",
+    "aboutOriginalSentence": "ʌхʌz zʌıсʌн <1>кɔчɔ</1> zʌıсᴅɾʌстɔ",
     "languages": {
         "en": "ᴜɾсʌz ʏʌтᴜʏ",
     }
