@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kordle-5L/static/css/main.56a0c879.css",
-    "main.js": "/Kordle-5L/static/js/main.e7427374.js",
-    "static/js/787.2943ab15.chunk.js": "/Kordle-5L/static/js/787.2943ab15.chunk.js",
+    "main.js": "/Kordle-5L/static/js/main.1df12ff3.js",
+    "static/js/787.9fd50364.chunk.js": "/Kordle-5L/static/js/787.9fd50364.chunk.js",
     "static/media/BCSans-Bold.woff": "/Kordle-5L/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Kordle-5L/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
     "static/media/BCSans-Italic.woff": "/Kordle-5L/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Kordle-5L/index.html",
     "static/media/getFetch.cjs": "/Kordle-5L/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.56a0c879.css.map": "/Kordle-5L/static/css/main.56a0c879.css.map",
-    "main.e7427374.js.map": "/Kordle-5L/static/js/main.e7427374.js.map",
-    "787.2943ab15.chunk.js.map": "/Kordle-5L/static/js/787.2943ab15.chunk.js.map"
+    "main.1df12ff3.js.map": "/Kordle-5L/static/js/main.1df12ff3.js.map",
+    "787.9fd50364.chunk.js.map": "/Kordle-5L/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56a0c879.css",
-    "static/js/main.e7427374.js"
+    "static/js/main.1df12ff3.js"
   ]
 }
