@@ -50,7 +50,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
   return (
     <div>
       <div className="flex justify-center mb-1">
-        {ORTHOGRAPHY.slice(0, Math.floor(ORTHOGRAPHY.length * 0.4)).map(
+        {ORTHOGRAPHY.slice(0, 7).map(
           (char) => (
             <Key
               key={char}
