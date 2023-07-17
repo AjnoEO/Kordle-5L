@@ -10,9 +10,9 @@
     "howToPlay": "Cómo jugar",
     "instructions": "Adivina la palabra en {{tries}} intentos. Después de cada intento, el color de las letras cambiará para mostrar qué tan cerca estás de acertar la palabra.",
     "pickYourLanguage": "Elige un idioma",
-    "correctSpotInstructions": "La letra T se encuentra en la palabra y está en la posición correcta.",
-    "wrongSpotInstructions": "La letra N se encuentra en la palabra pero en la posición incorrecta.",
-    "notInWordInstructions": "La letra O no se encuentra en la palabra.",
+    "correctSpotInstructions": "La letra D se encuentra en la palabra y está en la posición correcta.",
+    "wrongSpotInstructions": "La letra Т se encuentra en la palabra pero en la posición incorrecta.",
+    "notInWordInstructions": "La letra Н no se encuentra en la palabra.",
     "guessDistribution": "Distribución de aciertos",
     "statistics": "Estadísticas",
     "totalTries": "Jugadas",
@@ -27,76 +27,75 @@
         "¡Bien hecho!"
     ],
     "firstExampleWord": [{
-            "letter": "T",
+            "letter": "ᴅ",
             "highlight": true
         },
         {
-            "letter": "R",
+            "letter": "ı",
             "highlight": false
         },
         {
-            "letter": "A",
+            "letter": "х",
             "highlight": false
         },
         {
-            "letter": "M",
+            "letter": "ч",
             "highlight": false
         },
         {
-            "letter": "O",
+            "letter": "ʌ",
             "highlight": false
         }
     ],
     "secondExampleWord": [{
-            "letter": "G",
+            "letter": "с",
             "highlight": false
         },
         {
-            "letter": "A",
+            "letter": "ı",
             "highlight": false
         },
         {
-            "letter": "N",
+            "letter": "т",
             "highlight": true
         },
         {
-            "letter": "A",
+            "letter": "ᴜ",
             "highlight": false
         },
         {
-            "letter": "S",
+            "letter": "ʏ",
             "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "R",
+            "letter": "v",
             "highlight": false
         },
         {
-            "letter": "E",
+            "letter": "ʌ",
             "highlight": false
         },
         {
-            "letter": "T",
+            "letter": "с",
             "highlight": false
         },
         {
-            "letter": "O",
+            "letter": "н",
             "highlight": true
         },
         {
-            "letter": "S",
+            "letter": "ʌ",
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a {{language}} por <3>{{author}}</3>. ",
+    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a Loja por <3>{{author}}</3>. ",
     "aboutCodeSentence": "Echa un vistazo al <1>código original</1> de <3>Hannah Park</3> o echa un vistazo al <5>fork de Aidan Pine</5> y personalízalo para otro idioma. ",
     "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
     "languages": {
-        "en": "English",
+        "lx": "Loja",
+        "en": "Inglés",
         "es": "Español",
-        "sw": "Kiswahili",
-        "zh": "中文"
     }
 }
