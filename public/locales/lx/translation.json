@@ -92,11 +92,14 @@
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "кɔ zʌıсʌн {{language}}ʏо ʏʌтᴜʏᴜнтɔ отʌ <3>{{author}}</3> ɔ.",
+    "aboutAuthorSentence": "кɔ zʌıсʌн {{language}}ʏо ʏʌтᴜʏᴜнтɔ отʌ <3>ʌʏно</3> ɔ.",
     "aboutCodeSentence": "<3>хʌнʌ пʌɾк</3> vʌ отʌz <1>ʌхʌz опо</1> кʌʟтᴜʌ, кʌ <5>ʌʏᴅʌн пʌıн vʌ отʌz ızоv опо</5>кı тɔz zʌıс ʟᴜсгʌстɔ!",
     "aboutDataSentence": "кɔ zʌıсʏо <1>{{wordListSource}}</1>тᴜ коɾ ɾочıтɔ.",
     "aboutOriginalSentence": "ʌхʌz zʌıсʌн <1>кɔчɔ</1> zʌıсᴅɾʌстɔ",
     "languages": {
+        "lx": "ʟохʌ",
         "en": "ᴜɾсʌz ʏʌтᴜʏ",
+        "es": "нɔксɔʏ ʏʌтᴜʏ",
+        "ru": "ʌʏнɔz ʏʌтᴜʏ",
     }
 }
