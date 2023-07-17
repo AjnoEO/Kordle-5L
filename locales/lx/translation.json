@@ -1,0 +1,102 @@
+{
+    "about": "кɔ zʌıсɔz",
+    "gameName": "коɾdle",
+    "enterKey": "vɔ",
+    "deleteKey": "пıтɔ",
+    "notEnoughLetters": "тоv ноʟɔ тᴜпʌ ᴜʌ",
+    "wordNotFound": "тɔ коɾʌ ʟохʌчɔ ʏонʌ",
+    "solution": "коɾʌ {{solution}} ɔ",
+    "gameCopied": "тɔʏо ɾочıтɔ zı",
+    "howToPlay": "чᴜкı ʟотɔ ʏʌ?",
+    "instructions": "чᴜ коɾʌ конгʌстонтɔ ʏʌн конпᴜʌ. vокʌ ᴜнɔ vıᴅʌ ʏонʌнı ʟотıнʌ. ʟос ᴜнɔz пᴜᴅонı ʌzᴜсɔz кıпʌ коɾʌ конпᴜнтɔ.",
+    "pickYourLanguage": "ızоv ʏʌтᴜʏ?",
+    "correctSpotInstructions": "[ᴅ] vʌ тᴜпʌ коɾʌчɔ тɔчɔ ɔ.",
+    "wrongSpotInstructions": "[т] vʌ тᴜпʌ коɾʌчɔ ɔ, кʌ тɔчɔ ʏонʌ.",
+    "notInWordInstructions": "[н] vʌ тᴜпʌ ʟос коɾʌчɔ ʏонʌ.",
+    "guessDistribution": "чᴜ кɾонтʌкı конпᴜнтɔ",
+    "statistics": "кɾонтʌ",
+    "totalTries": "ʟос zʌıс",
+    "successRate": "ʟотɔz zʌıс",
+    "currentStreak": "хоɔz zʌıсᴅɔz кʌнтı",
+    "bestStreak": "ʟоснı vıᴅʌ zʌıсᴅɔz кʌнтı",
+    "newWordCountdown": "ızоv коɾ сʌтᴜʌ",
+    "share": "чɔʏотʌʏо ʏʌтᴜʌ!",
+    "winMessages": [
+        "vıᴅʌ!",
+        "vɔzvıᴅʌ!",
+        "нʌʟʌчɔ!",
+        "кʌʟтıvıᴅʌ!",
+        "ʟохʌz отʌ!",
+        "ʟотɔ!",
+    ],
+    "firstExampleWord": [{
+            "letter": "ᴅ",
+            "highlight": true
+        },
+        {
+            "letter": "ı",
+            "highlight": false
+        },
+        {
+            "letter": "х",
+            "highlight": false
+        },
+        {
+            "letter": "ч",
+            "highlight": false
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "с",
+            "highlight": false
+        },
+        {
+            "letter": "ı",
+            "highlight": false
+        },
+        {
+            "letter": "т",
+            "highlight": true
+        },
+        {
+            "letter": "ᴜ",
+            "highlight": false
+        },
+        {
+            "letter": "ʏ",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "v",
+            "highlight": false
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        },
+        {
+            "letter": "с",
+            "highlight": false
+        },
+        {
+            "letter": "н",
+            "highlight": true
+        },
+        {
+            "letter": "ʌ",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "кɔ zʌıсʌн {{language}}ʏо ʏʌтᴜʏᴜнтɔ отʌ <3>{{author}}</3> ɔ.",
+    "aboutCodeSentence": "<3>хʌнʌ пʌɾк</3> vʌ отʌz <1>ʌхʌz опо</1> кʌʟтᴜʌ, кʌ <5>ʌʏᴅʌн пʌıн vʌ отʌz ızоv опо</5>кı тɔ and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "en": "ᴜɾсʌz ʏʌтᴜʏ",
+    }
+}
